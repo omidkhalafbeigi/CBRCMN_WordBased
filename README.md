@@ -1,1 +1,1 @@
-# CBRCMN_WordBased
+# CBRCMN (Word-based) model
